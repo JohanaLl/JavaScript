@@ -28,3 +28,21 @@ La diferencia entre funciones expresadas y funciones declaradas es que las decla
 # forEach
 
 Permite ejecutar una función por cada método que tenga el arreglo
+
+# Operadores
+
+= 1 igual es asignación de variable
+== 2 iguales es comparación de valores
+=== 3 iguales es comparación de valores y tipo de dato
+
+# Operador ternario
+Solo se puede ejecutar en una línea de código
+(condición) ? verdadero : falso
+
+# FOR IN vs FOR OF
+FOR IN: permite recorrer las propiedades de un objeto primitivo en JS
+FOR OF: permite recorrer cualquier objeto JS que sea iterable
+
+# Break y Continue
+BreaK: finaliza el ciclo de la estructura iterada
+Continue: Se salta la iteración de la condición
