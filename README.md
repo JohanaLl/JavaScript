@@ -46,3 +46,6 @@ FOR OF: permite recorrer cualquier objeto JS que sea iterable
 # Break y Continue
 BreaK: finaliza el ciclo de la estructura iterada
 Continue: Se salta la iteración de la condición
+
+# map
+El método map() crea un nuevo array con los resultados de la llamada a la función indicada aplicados a cada uno de sus elementos.
